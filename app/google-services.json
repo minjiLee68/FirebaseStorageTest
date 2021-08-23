@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1006334725138",
+    "project_id": "storagetest-8b94b",
+    "storage_bucket": "storagetest-8b94b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006334725138:android:2a2337572f1bc2abc61ccb",
+        "android_client_info": {
+          "package_name": "com.sophia.firebasestoragetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006334725138-vkd3alb5stgsnpd85a3cfl0kmr9mapip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7Em5WtM7FFFTsUIMErNkosByCvkXbFi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006334725138-vkd3alb5stgsnpd85a3cfl0kmr9mapip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
